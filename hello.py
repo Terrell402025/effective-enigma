@@ -1,1 +1,2 @@
-print("Hello from Python")
+bpm=140
+print (bpm)
